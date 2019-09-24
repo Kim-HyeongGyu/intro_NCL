@@ -1,0 +1,20 @@
+! Backgound : white / Foreground : black (ncl 6.1.0 default setting)
+*wkForegroundColor  : (/0.,0.,0./)
+*wkBackgroundColor  : (/1.,1.,1./)
+
+! Default color map (Appendix B)
+*wkColorMap         : BlueWhiteOrangeRed
+
+! Font setting (Appendix C)
+*Font           : helvetica 
+
+! Specific character (Chapter 7-5)
+*TextFuncCode               : ~     
+
+! X11 window size (Default : 512x512)
+windowWorkstationClass*wkWidth  : 1000
+*windowWorkstationClass*wkHeight : 1000
+
+! PNG pixel size (Default : 1024x1024)
+*imageWorkstationClass*wkWidth   : 2500
+*imageWorkstationClass*wkHeight  : 2500

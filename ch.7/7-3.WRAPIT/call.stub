@@ -1,0 +1,7 @@
+C filename : call.stub
+
+C NCLFORTSTART
+    subroutine calc_quadratic(a, b, c, x1, x2)
+    real a, b, c
+    real x1, x2
+C NCLEND
