@@ -1,8 +1,17 @@
-## (가제) 대기과학을 위한 NCL (version 0.1)
+## 대기과학을 위한 NCL (version 1)
 
-<(가제) 대기과학을 위한 NCL> 책을 위한 실습 자료와 코드들입니다.
+---
+Working on it ...
+Note! 제공하고자 하는 자료의 용량으로 인해 실습코드 및 자료는 한국기상학회 홈페이지에서 받는 것을 권장드립니다.
+Due to the capacity of the data, we recommend that you download code and data on the website of the Korea Meteorological Society.
+한국기상학회(Korea Meteorological Society) : http://www.komes.or.kr
+---
+
+< 대기과학을 위한 NCL> 책을 위한 실습 자료와 코드들입니다.
+These are hands-on materials and code for the < NCL for Atmospheric Sciences >.
 
 실습하고자 하는 환경에 다음과 같이 입력하시면 실습자료를 받을 수 있습니다.
+You can download data by typing the following into the environment you want to practice on.
 
 `$ git lfs install`  
 `$ git clone https://github.com/Kim-HyeongGyu/intro_NCL.git` 
@@ -12,6 +21,7 @@
 
 https://github.com/git-lfs/git-lfs/wiki/Installation  
   
-
 집필된 책과 PDF 파일은 한국기상학회에서 주관하는 <2019 가을기상학회>에서 만나실 수 있습니다!
+Written books and PDF files can be found at <2019 Autumn Meteorological Conference> organized by the Korean Meteorological Society!
+
 
