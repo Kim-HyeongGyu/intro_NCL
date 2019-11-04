@@ -9,7 +9,7 @@ You can download code and PDF file at the following URL.
   
 https://1drv.ms/u/s!AgB_1W2QJPdogrh0St1jlNPiyjtHkA?e=LL88Zg  
 
-실습을 위해 2.5GB의 용량을 필요로 합니다.  
+NCL 실습을 위해 약 2.5GB의 용량을 필요로 합니다.  
   
-집필된 책과 PDF 파일은 한국기상학회에서 주관하는 <2019 가을기상학회>에서 만나실 수 있습니다!
-Written books and PDF files can be found at <2019 Autumn Meteorological Conference> organized by the Korean Meteorological Society!
+집필된 책과 PDF 파일은 한국기상학회에서 주관하는 <2019 가을기상학회>에서 만나실 수 있습니다!  
+Written books and PDF files can be found at <2019 Autumn Meteorological Conference> organized by the Korean Meteorological Society!  
