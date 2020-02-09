@@ -69,7 +69,7 @@ $ tar -xvf ~/Download/code4NCL.tar
 >    - -4. System interactions
 >    - -5. Function codes
 > 
-Appendix
-  
 
+  
+---
 본 교재는 ㈜봄인컨설팅에서 주관한 교육에서 기획되었으며 (사)한국기상학회 지원으로 출판되었습니다.
